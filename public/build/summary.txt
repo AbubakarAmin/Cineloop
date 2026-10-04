@@ -1,0 +1,15 @@
+timeline: 45.00s @ 30fps = 1350 frames
+vibe=romantic_nostalgia grade=warm_film type=golden_retro
+segments=11 lyrics=11 overlays=4 sfx=1
+----------------------------------------------------------------
+  #00   0.00s + 2.03s photo_01.jpg     floating_card    reveal_zoom      in:-
+  #01   2.03s + 6.13s photo_02.jpg     contain_blur     reveal_zoom      in:whip_pan
+  #02   8.17s + 4.10s photo_03.jpg     contain_blur     reveal_zoom      in:heartbeat_cut
+  #03  12.27s + 4.23s photo_04.jpg     contain_blur     reveal_zoom      in:film_dissolve
+  #04  16.50s + 3.50s photo_05.jpg     floating_card    reveal_zoom      in:heartbeat_cut
+  #05  20.00s + 6.50s photo_06.jpg     contain_blur     reveal_zoom      in:heartbeat_cut
+  #06  26.53s + 4.00s photo_07.jpg     contain_blur     reveal_zoom      in:film_dissolve
+  #07  30.50s + 2.50s photo_08.jpg     contain_blur     reveal_zoom      in:whip_pan
+  #08  33.03s + 4.00s photo_09.jpg     floating_card    reveal_zoom      in:heartbeat_cut
+  #09  37.00s + 6.00s photo_10.jpg     contain_blur     reveal_zoom      in:film_dissolve
+  #10  43.03s + 1.97s photo_11.jpg     contain_blur     reveal_zoom      in:whip_pan

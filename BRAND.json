@@ -1,0 +1,17 @@
+{
+  "name": "Cineloom",
+  "slug": "cineloom",
+  "tagline": "Weave your memories into film.",
+  "monogram": "CL",
+  "version": "1.0.0",
+  "compositionId": "Loom",
+  "repoDir": "cineloom",
+  "colors": {
+    "primary": "#1a1214",
+    "accent": "#e8b4a0",
+    "accentDeep": "#c98d7a",
+    "gold": "#d4af7a",
+    "paper": "#f5efe6"
+  },
+  "renameCommand": "python3 scripts/rebrand.py --name \"NewName\""
+}

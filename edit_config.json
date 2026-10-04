@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "project": {
+    "name": "couple_edit",
+    "aspect": "9:16",
+    "resolution": [1080, 1920],
+    "fps": 30
+  },
+  "audio": {
+    "track": "media/song.mp3",
+    "start": 14.0,
+    "duration": 45.0,
+    "fadeIn": 0.6,
+    "fadeOut": 1.8
+  },
+  "beat_sync": {
+    "enabled": true,
+    "strength": 0.8,
+    "minSegSec": 1.4
+  },
+  "style": {
+    "vibe": "romantic_nostalgia",
+    "grade": "warm_film",
+    "typography": "golden_retro",
+    "transition": ["film_dissolve", "whip_pan", "heartbeat_cut"],
+    "transitionAccents": ["heartbeat_cut"],
+    "accentEvery": 4,
+    "layout": "contain_blur",
+    "layoutAccents": ["floating_card"],
+    "motion": "reveal_zoom",
+    "overlays": ["film_grain", "vignette_soft", "light_leak", "dust_motes"],
+    "sfxPolicy": "tasteful"
+  },
+  "photos": [
+    {"file": "media/photo_01.jpg"},
+    {"file": "media/photo_02.jpg"},
+    {"file": "media/photo_03.jpg"},
+    {"file": "media/photo_04.jpg"},
+    {"file": "media/photo_05.jpg"},
+    {"file": "media/photo_06.jpg"},
+    {"file": "media/photo_07.jpg"},
+    {"file": "media/photo_08.jpg"},
+    {"file": "media/photo_09.jpg"},
+    {"file": "media/photo_10.jpg"},
+    {"file": "media/photo_11.jpg"}
+  ],
+  "lyrics": [
+    {"text": "call me your loverboy", "start": 1.2, "end": 4.6, "keywords": ["loverboy"]},
+    {"text": "every time you call", "start": 5.0, "end": 8.2, "keywords": ["you"]},
+    {"text": "I come runnin'", "start": 8.6, "end": 11.4, "keywords": ["runnin'"]},
+    {"text": "late night drives with you", "start": 12.0, "end": 15.6, "keywords": ["you"]},
+    {"text": "no place I'd rather be", "start": 16.2, "end": 19.8, "keywords": ["rather be"]},
+    {"text": "you know I'm all yours", "start": 20.4, "end": 24.0, "keywords": ["all yours"]},
+    {"text": "hold on to my hand", "start": 24.8, "end": 28.2, "keywords": ["hold on"]},
+    {"text": "we could drive all night", "start": 28.8, "end": 32.4, "keywords": ["all night"]},
+    {"text": "just say the word", "start": 33.0, "end": 36.2, "keywords": ["word"]},
+    {"text": "I'll be there first", "start": 36.8, "end": 40.0, "keywords": ["first"]},
+    {"text": "always your loverboy", "start": 40.2, "end": 41.2, "keywords": ["loverboy"]}
+  ],
+  "end_card": {
+    "title": "us, always",
+    "subtitle": "made with love",
+    "date": "2026",
+    "monogram": "CL",
+    "dur": 4.0
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {"id":"romantic_nostalgia","name":"Romantic Nostalgia","description":"The house sound of a couple film: warm, close, unhurried.",
+   "defaults":{"transition":"film_dissolve","transitionAccents":["heartbeat_cut"],"typography":"golden_retro","grade":"warm_film","layout":"contain_blur","layoutAccents":["floating_card"],"motion":"reveal_zoom","overlays":["film_grain","vignette_soft","light_leak"],"sfxPolicy":"tasteful","segBeats":4},
+   "bpmHint":[85,105],"notes":"Defaults reproduce the original signature edit."},
+  {"id":"wedding_elegance","name":"Wedding Elegance","description":"Ivory, gold and air. For first dances and vows.",
+   "defaults":{"transition":"luma_fade","transitionAccents":["film_dissolve"],"typography":"midnight_serif","grade":"golden_hour","layout":"arch_frame","layoutAccents":["inset_matte"],"motion":"slow_push","overlays":["film_grain","bokeh_drift","vignette_soft"],"sfxPolicy":"tasteful","segBeats":8},
+   "bpmHint":[70,95],"notes":"Longer holds, no hard cuts, serif everything."},
+  {"id":"travel_adventure","name":"Travel Adventure","description":"Wide vistas, forward momentum, blue skies.",
+   "defaults":{"transition":"mask_wipe","transitionAccents":["zoom_punch"],"typography":"editorial_caps","grade":"teal_orange","layout":"cover_fill","layoutAccents":["side_panel"],"motion":"dolly_push_pan","overlays":["vignette_soft","film_grain"],"sfxPolicy":"energetic","segBeats":2},
+   "bpmHint":[100,128],"notes":"Short segments, directional wipes, all-caps place names."},
+  {"id":"retro_super8","name":"Retro Super8","description":"1970s home movie: burns, weave, grain.",
+   "defaults":{"transition":"film_burn","transitionAccents":["film_gate"],"typography":"script_shadow","grade":"vintage_70s","layout":"film_bars","layoutAccents":["overlay_strip"],"motion":"handheld_float","overlays":["film_grain","old_film_scratches","light_leak","dust_motes"],"sfxPolicy":"tasteful","segBeats":4},
+   "bpmHint":[90,115],"notes":"Heaviest overlay stack; keep motion gentle so grain reads."},
+  {"id":"y2k_cam","name":"Y2K Cam","description":"Digital camera flash era: playful, glitchy, bright.",
+   "defaults":{"transition":"glitch_cut","transitionAccents":["prismatic_shift"],"typography":"neon_glow","grade":"pastel_dream","layout":"full_bleed_tilt","layoutAccents":["polaroid"],"motion":"whip_reveal","overlays":["sparkle_field","film_grain"],"sfxPolicy":"energetic","segBeats":2},
+   "bpmHint":[110,140],"notes":"Fast cuts, hard flashes, date stamps."},
+  {"id":"moody_noir","name":"Moody Noir","description":"Low light, high contrast, monochrome drama.",
+   "defaults":{"transition":"ink_bleed","transitionAccents":["blur_dissolve"],"typography":"cinema_title","grade":"bw_noir","layout":"film_bars","layoutAccents":["inset_matte"],"motion":"settle_still","overlays":["vignette_deep","film_grain","paper_texture"],"sfxPolicy":"sparse","segBeats":8},
+   "bpmHint":[60,90],"notes":"Slowest pacing in the catalog; let silence between notes breathe."}
+]

@@ -1,0 +1,7 @@
+node_modules/
+build/*.tmp.json
+out/
+assets/gen/cache/
+*.log
+.DS_Store
+timeline_preview/
